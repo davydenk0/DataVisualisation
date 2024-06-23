@@ -139,4 +139,3 @@ if __name__ == '__main__':
             task4()
         case 5:
             task5()
-1
