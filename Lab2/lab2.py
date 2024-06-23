@@ -144,7 +144,7 @@ def task4():
                 mlab.mesh(x_g, y_g, z_g, color=color)
 
     mlab.move(forward=1.8)
-    mlab.savefig("superquadric-Kindlmann_modified-viz.png", size=(100, 100))
+    mlab.savefig("task4_superquadric.png", size=(100, 100))
     mlab.show()
 
 # Main function to select and run tasks
