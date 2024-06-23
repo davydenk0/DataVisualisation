@@ -1,14 +1,12 @@
 ## Lab Report: Task 1
-
+## Davydenko Pavlo IKM-M223b
 ### Description
 This task involves visualizing a scalar field \( u(x, y) \) and its gradient \( \nabla u(x, y) \).
 
-### Scalar Field Function
-\[ u(x, y) = x \sqrt{y} - y x^2 \]
-
-### Observations
-- The contour plot shows the distribution of the scalar field \( u(x, y) \) over the domain.
-- The quiver plot displays the gradient \( \nabla u(x, y) \) as a vector field.
+### Code Description
+The code defines the scalar field function \( u(x, y) = x \sqrt{y} - y x^2 \) and computes its gradient. It then plots:
+- A contour plot of the scalar field \( u(x, y) \).
+- A quiver plot to visualize the gradient \( \nabla u(x, y) \) as a vector field.
 
 ### Plots
 - **Contour Plot**
@@ -23,12 +21,10 @@ This task involves visualizing a scalar field \( u(x, y) \) and its gradient \( 
 ### Description
 This task involves visualizing a plane vector field \( \mathbf{F}(x, y) \).
 
-### Vector Field Function
-\[ \mathbf{F}(x, y) = (x + y, x - y) \]
-
-### Observations
-- The quiver plot shows the vector field \( \mathbf{F}(x, y) \) over the defined domain.
-- The streamplot provides a clearer view of the vector field's streamlines.
+### Code Description
+The code defines the vector field function \( \mathbf{F}(x, y) = (x + y, x - y) \) and plots:
+- A quiver plot to visualize the vector field \( \mathbf{F}(x, y) \).
+- A streamplot for clearer visualization of the vector field's streamlines.
 
 ### Plots
 - **Quiver Plot**
@@ -43,11 +39,9 @@ This task involves visualizing a plane vector field \( \mathbf{F}(x, y) \).
 ### Description
 This task involves constructing a three-dimensional visualization of a vector field \( \mathbf{F}(x, y, z) \).
 
-### Vector Field Function
-\[ \mathbf{F}(x, y, z) = \left( \frac{1}{y}, \frac{1}{z}, \frac{1}{x} \right) \]
-
-### Observations
-- The 3D quiver plot illustrates the vector field \( \mathbf{F}(x, y, z) \) in three dimensions.
+### Code Description
+The code defines the 3D vector field function \( \mathbf{F}(x, y, z) = \left( \frac{1}{y}, \frac{1}{z}, \frac{1}{x} \right) \) and plots:
+- A 3D quiver plot to visualize the vector field \( \mathbf{F}(x, y, z) \) in three dimensions.
 
 ### Plot
 - **3D Vector Field**
@@ -60,16 +54,15 @@ This task involves constructing a three-dimensional visualization of a vector fi
 ### Description
 This task involves visualizing a tensor field using Mayavi and custom glyph visualization.
 
-### Tensor Field Construction
-- The tensor field is constructed with given components and visualized using superquadric glyphs.
-
-### Observations
-- Superquadric glyphs depict the tensor field components in 3D space.
+### Code Description
+The code constructs the tensor field and visualizes it using superquadric glyphs with Mayavi. It includes:
+- Construction of the tensor field components.
+- Visualization of the tensor field using superquadric glyphs.
 
 ### Plot
 - **Superquadric Glyph Visualization**
- ![Superquadric Glyph Visualization](task4_superquadric.png)
+  ![Superquadric Glyph Visualization](task4_superquadric.png)
 
 ---
 
-These reports provide detailed summaries of each lab task, highlighting the functions used, observations made, and visualizations produced in the Python script. Each plot referenced in the reports should be saved separately with appropriate filenames (`task1_contour.png`, `task1_gradient.png`, etc.) based on the tasks performed.
+These reports provide detailed summaries of each lab task, along with concise descriptions of the corresponding code functionalities. Each plot referenced in the reports should be saved separately with appropriate filenames (`task1_contour.png`, `task1_gradient.png`, etc.) based on the tasks performed.
