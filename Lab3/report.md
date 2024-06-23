@@ -1,5 +1,5 @@
 ## Davydenko Pavlo IKM-M223b
-# Ellipse and Rectangle Animation
+# Lab3: Ellipse and Rectangle Animation
 
 This repository contains a Python script that generates an animated GIF illustrating the movement of a rectangle along an elliptical path.
 

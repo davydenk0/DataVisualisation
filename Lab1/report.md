@@ -1,4 +1,4 @@
-## Lab Report: Task 1
+## Lab 1: Task 1
 ## Davydenko Pavlo IKM-M223b 
 ### Description
 In this task, we plotted two functions, \( y \) and \( z \), against the variable \( x \).
@@ -17,7 +17,7 @@ In this task, we plotted two functions, \( y \) and \( z \), against the variabl
 
 ---
 
-## Lab Report: Task 2
+## Lab 1: Task 2
 
 ### Description
 This task involved creating a 3D surface plot of a function \( z \) in relation to variables \( x \) and \( y \).
@@ -35,7 +35,7 @@ This task involved creating a 3D surface plot of a function \( z \) in relation 
 
 ---
 
-## Lab Report: Task 3
+## Lab 1: Task 3
 
 ### Description
 This task focused on plotting a curve in polar coordinates.
@@ -53,7 +53,7 @@ This task focused on plotting a curve in polar coordinates.
 
 ---
 
-## Lab Report: Task 4
+## Lab 1: Task 4
 
 ### Description
 This task involved plotting a second-order surface in 3D space.
@@ -71,7 +71,7 @@ This task involved plotting a second-order surface in 3D space.
 
 ---
 
-## Lab Report: Task 5
+## Lab 1: Task 5
 
 ### Description
 In this task, we created stacked bar charts in both 2D and 3D.

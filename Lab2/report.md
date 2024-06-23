@@ -1,4 +1,4 @@
-## Lab Report: Task 1
+## Lab 2: Task 1
 ## Davydenko Pavlo IKM-M223b
 ### Description
 This task involves visualizing a scalar field \( u(x, y) \) and its gradient \( \nabla u(x, y) \).
@@ -16,7 +16,7 @@ The code defines the scalar field function \( u(x, y) = x \sqrt{y} - y x^2 \) an
 
 ---
 
-## Lab Report: Task 2
+## Lab 2: Task 2
 
 ### Description
 This task involves visualizing a plane vector field \( \mathbf{F}(x, y) \).
@@ -34,7 +34,7 @@ The code defines the vector field function \( \mathbf{F}(x, y) = (x + y, x - y) 
 
 ---
 
-## Lab Report: Task 3
+## Lab 2: Task 3
 
 ### Description
 This task involves constructing a three-dimensional visualization of a vector field \( \mathbf{F}(x, y, z) \).
@@ -49,7 +49,7 @@ The code defines the 3D vector field function \( \mathbf{F}(x, y, z) = \left( \f
 
 ---
 
-## Lab Report: Task 4
+## Lab 2: Task 4
 
 ### Description
 This task involves visualizing a tensor field using Mayavi and custom glyph visualization.
