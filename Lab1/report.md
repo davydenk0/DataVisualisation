@@ -1,5 +1,5 @@
 ## Lab Report: Task 1
-
+## Davydenko Pavlo IKM-M223b
 ### Description
 In this task, we plotted two functions, \( y \) and \( z \), against the variable \( x \).
 
